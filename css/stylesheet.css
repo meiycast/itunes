@@ -72,6 +72,32 @@ td, th {
   margin-bottom: 25px;
 }
 
+.button {
+  background-color: #94BEDB;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 8px 15px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+}
+
+.button:hover{
+  background-color:#BFB9DA;
+  color: white;
+}
+
+.button:active{
+  background-color:#BFB9DA;
+  color: white;
+}
+
+
 .hero {
   background: #CCC url('http://bts.ibighit.com/youngforever/img/photo/day/2.jpg') no-repeat;
   background-size: cover;
