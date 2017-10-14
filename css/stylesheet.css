@@ -117,3 +117,55 @@ td, th {
   text-align: center;
   transform:  translate(-50%,-50%);
 }
+
+/* MEDIA QUERIES
+*********************************************/
+
+
+/* Extra small devices (portrait phones, less than 576px)
+/ No media query since this is the default in Bootstrap*/
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {}
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {
+  
+  .tekstdesktop {
+    margin-top: 50px;
+  }
+
+  .tekstdesktop2 {
+    margin-top: 120px;
+  }
+  .cd-lijst {
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+  }
+
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {
+   
+
+}
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}

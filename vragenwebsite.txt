@@ -1,0 +1,4 @@
+1. hero image, divs, etc op volledige breedte laten lopen zonder dat de inhoud uit het grid gaat
+2. afbeelding van de cd in het lijstje moet groter + margin bot moet aangepast worden maar wil 
+niet aanpassen als ik het doe via de mediaquery
+3. de tekst naast de foto's moet lager als hij op desktop zit
