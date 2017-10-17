@@ -1,16 +1,14 @@
 
 
 .toet {
-  width: 70%;
+  width: 75%;
   border-radius: 50000px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom:50px;
 }
-.btsgroot {
-    width: 100%;
-  }
+
 
 .albums {
   background: #F2C7B4;
