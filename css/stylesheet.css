@@ -125,8 +125,8 @@ td:last-child {
 }
 
 .hero__text { 
-  font-weight: 400;
-  font-size: 1.5rem;
+  font-weight: bold;
+  font-size: 50pt;
   position:  absolute;
   color: #FFF;
   top: 50%;
@@ -135,22 +135,24 @@ td:last-child {
   transform:  translate(-50%,-50%);
 }
 
-.hero2 {
-  background: #CCC url('../assets/images/bts1.jpg') no-repeat;
+.jumbotop {
+  background: #CCC url('../assets/images/hero.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
   width: 100%;
-  height:  250px;
+  height:  500px;
   position: relative;
+  margin-bottom: 0;
 }
 
-.hero3 {
+.jumbobottom {
   background: #CCC url('../assets/images/bts1.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
   width: 100%;
-  height:  250px;
+  height:  200px;
   position: relative;
+  margin-bottom: 0;
 }
 
 
